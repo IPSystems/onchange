@@ -1,0 +1,6 @@
+{
+  "name": "ckeditor-onchange-plugin",
+  "description": "Onchange for ckeditor",
+  "version": "0.0.1",
+  "main": "./plugin.js"
+}
